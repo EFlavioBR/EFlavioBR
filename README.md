@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Emanuel Flávio
-- 👀 I’m interested in Python, CSS, HTML, JS.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Emanuel Sousa
+- 👀 I’m interested in Python, Django, Azure. 
+- 🌱 I’m currently learning Python
+
 
 <!---
 EFlavioBR/EFlavioBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
