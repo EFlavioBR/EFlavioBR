@@ -19,7 +19,7 @@ Foco em análise, modelagem e visualização de dados.
 ---
 Dados → Análise → Decisão
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFlavioBR&layout=compact&theme=default&hide_border=true)
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/emanuelflaviodt/
