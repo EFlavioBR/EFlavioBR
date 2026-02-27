@@ -26,4 +26,4 @@ Dados → Análise → Decisão
 ⭐ Sempre em evolução, buscando transformar dados em decisões estratégicas.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFlavioBR&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=EFlavioBR&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400)
