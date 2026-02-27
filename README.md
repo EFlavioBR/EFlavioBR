@@ -24,6 +24,3 @@ Dados → Análise → Decisão
 - Email: emanuelf.flavio58@gmail.com
 
 ⭐ Sempre em evolução, buscando transformar dados em decisões estratégicas.
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EFlavioBR&show_icons=true&hide_border=true)
