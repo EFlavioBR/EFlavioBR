@@ -24,4 +24,6 @@ Dados → Análise → Decisão
 - Email: emanuelf.flavio58@gmail.com
 
 ⭐ Sempre em evolução, buscando transformar dados em decisões estratégicas.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFlavioBR&layout=compact&hide_border=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFlavioBR&layout=compact)
