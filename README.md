@@ -19,10 +19,9 @@ Foco em análise, modelagem e visualização de dados.
 ---
 Dados → Análise → Decisão
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFlavioBR&layout=compact&theme=default&hide_border=true)
 ## 📫 Contato
-
 - LinkedIn: https://www.linkedin.com/in/emanuelflaviodt/
 - Email: emanuelf.flavio58@gmail.com
 
 ⭐ Sempre em evolução, buscando transformar dados em decisões estratégicas.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFlavioBR&layout=compact&hide_border=true)
