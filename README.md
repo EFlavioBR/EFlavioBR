@@ -1,4 +1,4 @@
-# Emanuel Flávio | Cientista de Dados
+# Emanuel Flávio 
 
 Graduando em Ciência de Dados (UFC)  
 Foco em análise, modelagem e visualização de dados.
